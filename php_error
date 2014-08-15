@@ -1,0 +1,95 @@
+[18-Apr-2013 07:06:30 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/http_humres/public_html/test.php on line 2
+[13-May-2014 11:40:57 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/site/index.php on line 48
+[13-May-2014 11:40:59 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/site/index.php on line 48
+[13-May-2014 11:41:38 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/site/index.php on line 48
+[13-May-2014 11:42:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/site/index.php on line 48
+[13-May-2014 11:44:13 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 70
+[13-May-2014 12:05:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 71
+[13-May-2014 12:07:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[13-May-2014 12:07:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 54
+[15-May-2014 08:14:04 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/days/index.php on line 76
+[16-May-2014 08:21:27 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 38
+[16-May-2014 08:22:53 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 38
+[16-May-2014 15:16:14 UTC] PHP Fatal error:  Call to a member function getAuthorizer() on a non-object in /home/http_humres/public_html/protected/modules/rights/components/Rights.php on line 287
+[16-May-2014 15:17:07 UTC] PHP Fatal error:  Call to a member function getAuthorizer() on a non-object in /home/http_humres/public_html/protected/modules/rights/components/Rights.php on line 287
+[16-May-2014 15:17:57 UTC] PHP Fatal error:  Call to a member function getAuthorizer() on a non-object in /home/http_humres/public_html/protected/modules/rights/components/Rights.php on line 287
+[16-May-2014 15:25:17 UTC] PHP Fatal error:  Call to a member function getAuthorizer() on a non-object in /home/http_humres/public_html/protected/modules/rights/components/Rights.php on line 287
+[16-May-2014 15:31:04 UTC] PHP Fatal error:  Call to a member function getAuthorizer() on a non-object in /home/http_humres/public_html/protected/modules/rights/components/Rights.php on line 287
+[19-May-2014 11:58:39 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/http_humres/public_html/protected/views/layouts/main.php on line 162
+[19-May-2014 12:26:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/http_humres/public_html/protected/views/layouts/main.php on line 58
+[19-May-2014 14:29:31 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/http_humres/public_html/protected/modules/user/models/User.php on line 83
+[19-May-2014 14:30:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/http_humres/public_html/protected/modules/user/models/User.php on line 83
+[20-May-2014 12:23:45 UTC] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/http_humres/public_html/protected/views/layouts/main.php on line 73
+[20-May-2014 15:57:04 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 78
+[20-May-2014 15:57:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 78
+[20-May-2014 15:58:52 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/http_humres/public_html/protected/views/layouts/main.php on line 170
+[21-May-2014 08:28:29 UTC] PHP Fatal error:  Call to a member function getAttribute() on a non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 28
+[27-May-2014 12:20:11 UTC] PHP Fatal error:  Undefined class constant 'BELONG_TO' in /home/http_humres/public_html/protected/models/Documents.php on line 63
+[27-May-2014 14:34:17 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 136
+[28-May-2014 09:16:33 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 149
+[29-May-2014 12:24:27 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/http_humres/public_html/protected/views/documents/index.php on line 24
+[29-May-2014 13:01:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Documents.php on line 102
+[29-May-2014 13:02:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Documents.php on line 102
+[29-May-2014 13:03:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Documents.php on line 102
+[29-May-2014 13:04:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Documents.php on line 102
+[29-May-2014 13:04:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Documents.php on line 102
+[29-May-2014 15:08:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/views/documents/_form.php on line 50
+[29-May-2014 15:12:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/views/documents/_form.php on line 52
+[09-Jun-2014 07:02:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/http_humres/public_html/protected/views/documents/update.php on line 27
+[09-Jun-2014 07:16:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 104
+[09-Jun-2014 07:25:52 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/http_humres/public_html/protected/views/documents/create.php on line 26
+[09-Jun-2014 07:26:43 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/http_humres/public_html/protected/views/documents/create.php on line 26
+[09-Jun-2014 07:27:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/views/documents/create.php on line 26
+[09-Jun-2014 07:28:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/views/documents/create.php on line 26
+[09-Jun-2014 11:15:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 158
+[09-Jun-2014 12:12:48 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[09-Jun-2014 12:30:16 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/http_humres/public_html/protected/views/documents/update.php on line 45
+[09-Jun-2014 12:33:28 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/http_humres/public_html/protected/views/documents/update.php on line 45
+[09-Jun-2014 13:48:01 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[09-Jun-2014 14:34:04 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 161
+[09-Jun-2014 14:48:33 UTC] PHP Fatal error:  Undefined class constant 'BELONG_TO' in /home/http_humres/public_html/protected/models/Personal.php on line 75
+[09-Jun-2014 15:06:41 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/http_humres/public_html/protected/views/documents/admin.php on line 65
+[09-Jun-2014 15:15:24 UTC] PHP Fatal error:  Cannot redeclare DocumentsController::actionDelete() in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 193
+[09-Jun-2014 15:41:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/controllers/DocumentsController.php on line 184
+[10-Jun-2014 09:44:29 UTC] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/http_humres/public_html/protected/views/documents/_view.php on line 42
+[16-Jun-2014 09:02:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/http_humres/public_html/protected/views/personal/view.php on line 36
+[16-Jun-2014 09:21:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Personal.php on line 117
+[16-Jun-2014 09:21:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Personal.php on line 117
+[16-Jun-2014 09:21:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/models/Personal.php on line 117
+[16-Jun-2014 09:28:04 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[16-Jun-2014 12:45:37 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[16-Jun-2014 14:55:37 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[20-Jun-2014 08:23:28 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[20-Jun-2014 08:26:24 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[20-Jun-2014 08:33:00 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[23-Jun-2014 07:39:13 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[23-Jun-2014 07:58:51 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/http_humres/public_html/protected/models/Personal.php on line 139
+[23-Jun-2014 07:59:08 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/http_humres/public_html/protected/views/personal/_companies_view.php on line 8
+[23-Jun-2014 12:21:42 UTC] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/http_humres/public_html/protected/views/personal/index.php on line 27
+[23-Jun-2014 12:29:51 UTC] PHP Parse error:  syntax error, unexpected T_RETURN in /home/http_humres/public_html/protected/models/Personal.php on line 170
+[23-Jun-2014 12:30:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/http_humres/public_html/protected/models/Personal.php on line 168
+[08-Jul-2014 08:36:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/http_humres/public_html/protected/controllers/PersonalController.php on line 104
+[08-Jul-2014 12:47:53 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[08-Jul-2014 13:44:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/http_humres/public_html/protected/models/Personal.php on line 125
+[08-Jul-2014 13:45:01 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/http_humres/framework/zii/widgets/CBaseListView.php on line 108
+[10-Jul-2014 12:59:28 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/http_humres/public_html/protected/controllers/PersonalController.php on line 141
+[10-Jul-2014 13:00:46 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/http_humres/public_html/protected/controllers/PersonalController.php on line 141
+[10-Jul-2014 14:25:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/http_humres/public_html/protected/views/personal/update_job.php on line 20
+[24-Jul-2014 14:22:36 UTC] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/http_humres/public_html/protected/views/personal/_family_view.php on line 8
+[25-Jul-2014 12:10:11 UTC] PHP Notice:  Trying to get property of non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 46
+[25-Jul-2014 12:11:31 UTC] PHP Notice:  Trying to get property of non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 46
+[25-Jul-2014 12:11:39 UTC] PHP Notice:  Trying to get property of non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 46
+[25-Jul-2014 12:12:13 UTC] PHP Notice:  Trying to get property of non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 46
+[25-Jul-2014 12:13:20 UTC] PHP Notice:  Trying to get property of non-object in /home/http_humres/public_html/protected/views/layouts/main.php on line 46
+[28-Jul-2014 14:26:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/http_humres/public_html/protected/views/personal/_family_form.php on line 70
+[06-Aug-2014 10:09:13 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/http_humres/public_html/protected/views/layouts/main.php on line 187
