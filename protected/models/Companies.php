@@ -2,7 +2,7 @@
 
 /**
  * This is the model class for table "companies".
- * изминения
+ *
  * The followings are the available columns in table 'companies':
  * @property integer $COMPANY_ID
  * @property string $COMPANY_NAME
